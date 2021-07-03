@@ -49,7 +49,13 @@ here the functional manager assign who will do which work
 
 ![grafik](https://user-images.githubusercontent.com/61450446/124368898-317d4400-dc66-11eb-8464-6e737eabeaf8.png)
 
+![grafik](https://user-images.githubusercontent.com/61450446/124368912-6ee1d180-dc66-11eb-8a17-60f27cdaec6c.png)
 
+![grafik](https://user-images.githubusercontent.com/61450446/124368978-32fb3c00-dc67-11eb-8187-18db5bede3ff.png)
+![grafik](https://user-images.githubusercontent.com/61450446/124369159-1a8c2100-dc69-11eb-8bbf-dc2293af27e0.png)
+
+
+![Capture](https://user-images.githubusercontent.com/61450446/124369164-2972d380-dc69-11eb-9785-2cca13c1c735.PNG)
 
 
 
