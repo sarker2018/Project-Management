@@ -47,6 +47,9 @@ here the functional manager assign who will do which work
 ![grafik](https://user-images.githubusercontent.com/61450446/124368795-1e1da900-dc65-11eb-8421-bb2e11d763c3.png)
 ![grafik](https://user-images.githubusercontent.com/61450446/124368822-57561900-dc65-11eb-9ca1-e48d6cb998fb.png)
 
+![grafik](https://user-images.githubusercontent.com/61450446/124368898-317d4400-dc66-11eb-8464-6e737eabeaf8.png)
+
+
 
 
 
