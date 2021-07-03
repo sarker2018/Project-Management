@@ -40,6 +40,14 @@ here the functional manager assign who will do which work
 * Stakeholder
 * ![grafik](https://user-images.githubusercontent.com/61450446/124368717-072a8700-dc64-11eb-9f68-8a3925cf1571.png)
 * ![grafik](https://user-images.githubusercontent.com/61450446/124368742-612b4c80-dc64-11eb-8ef1-65708a25dae0.png)
+* ![grafik](https://user-images.githubusercontent.com/61450446/124368755-815b0b80-dc64-11eb-9610-53ae83aeb5df.png)
+* ![grafik](https://user-images.githubusercontent.com/61450446/124368764-99cb2600-dc64-11eb-8c4c-de27c6f96143.png)
+![grafik](https://user-images.githubusercontent.com/61450446/124368781-e6aefc80-dc64-11eb-8e5c-2a9ea7b86bc5.png)
+![grafik](https://user-images.githubusercontent.com/61450446/124368789-13fbaa80-dc65-11eb-8ff0-50c69831640d.png)
+![grafik](https://user-images.githubusercontent.com/61450446/124368795-1e1da900-dc65-11eb-8421-bb2e11d763c3.png)
+![grafik](https://user-images.githubusercontent.com/61450446/124368822-57561900-dc65-11eb-9ca1-e48d6cb998fb.png)
+
+
 
 
 
