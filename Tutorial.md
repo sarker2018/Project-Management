@@ -60,7 +60,7 @@ here the functional manager assign who will do which work
 
 ![grafik](https://user-images.githubusercontent.com/61450446/124369223-ae5ded00-dc69-11eb-9063-5781a4486f36.png)
 
-<br> <br>
+<br/> <br/>
 ![grafik](https://user-images.githubusercontent.com/61450446/124369226-cafa2500-dc69-11eb-9ff6-8f4c113b8442.png)
 
 
