@@ -74,4 +74,5 @@ here the functional manager assign who will do which work
 ![grafik](https://user-images.githubusercontent.com/61450446/124369288-7f944680-dc6a-11eb-8ab5-93832572b3ad.png)
 <br><br><br><br>
 
-* [last study point](https://www.coursera.org/learn/project-planning/supplement/Xwwsi/course-survey)
+* [last study point](https://www.coursera.org/learn/project-planning/supplement/8xJIK/3-4-optional-readings)
+* 
