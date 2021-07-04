@@ -170,7 +170,11 @@ here the functional manager assign who will do which work
 
 ![grafik](https://user-images.githubusercontent.com/61450446/124376924-8bebc400-dca9-11eb-9fe0-2d4ca4da26aa.png)
 
+![grafik](https://user-images.githubusercontent.com/61450446/124377986-4e8a3500-dcaf-11eb-8a80-0a7ad97de3d7.png)
 
+![grafik](https://user-images.githubusercontent.com/61450446/124378025-9315d080-dcaf-11eb-909e-16dbc7a4df4f.png)
+
+![grafik](https://user-images.githubusercontent.com/61450446/124378048-ae80db80-dcaf-11eb-8ebc-e69d6a511795.png)
 
 
 
