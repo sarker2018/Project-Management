@@ -77,7 +77,17 @@ here the functional manager assign who will do which work
 * [last study point](https://www.coursera.org/learn/project-planning/supplement/8xJIK/3-4-optional-readings)
 
 ## Week 4
-![grafik](https://user-images.githubusercontent.com/61450446/124369813-4e1e7980-dc70-11eb-9dff-0d543e2dc5ac.png)
+
+![grafik](https://user-images.githubusercontent.com/61450446/124370097-b9b61600-dc73-11eb-94da-17f0e5e2d5b9.png)
+
+![grafik](https://user-images.githubusercontent.com/61450446/124370111-fbdf5780-dc73-11eb-87b6-01dcb2791d2f.png)
+
+![grafik](https://user-images.githubusercontent.com/61450446/124370116-07328300-dc74-11eb-8baa-2dd4f46f4721.png)
+
+![grafik](https://user-images.githubusercontent.com/61450446/124370126-17e2f900-dc74-11eb-9b55-b614fb956849.png)
+
+
+
 
 
 
