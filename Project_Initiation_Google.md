@@ -76,8 +76,8 @@ Performing a cost-benefit analysis can help you and your stakeholders determine 
 
 To learn more about performing a cost-benefit analysis, check out these articles:
 
-    [Cost Benefit Analysis for Projects – A Step-by-Step Guide] (https://www.projectmanager.com/blog/cost-benefit-analysis-for-projects-a-step-by-step-guide)
-    [Cost Benefit or Benefit Cost Analysis](https://pmstudycircle.com/cost-benefit-or-benefit-cost-analysis/)
+- [Cost Benefit Analysis for Projects – A Step-by-Step Guide](https://www.projectmanager.com/blog/cost-benefit-analysis-for-projects-a-step-by-step-guide)
+- [Cost Benefit or Benefit Cost Analysis](https://pmstudycircle.com/cost-benefit-or-benefit-cost-analysis/)
 
 ## Week 2
 
