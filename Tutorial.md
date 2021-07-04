@@ -164,6 +164,7 @@ here the functional manager assign who will do which work
 
 ![grafik](https://user-images.githubusercontent.com/61450446/124373092-c8122b00-dc8f-11eb-8149-57ae3d34163c.png)
 
+![grafik](https://user-images.githubusercontent.com/61450446/124376455-6362ca80-dca7-11eb-8cee-8f2add45086f.png)
 
 
 
