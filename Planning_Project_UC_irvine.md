@@ -1,6 +1,6 @@
-Initiating and Planning Projects
-
-Dozent: Margaret Meloni, MBA, PMP
+# Initiating and Planning Projects, UC Irvine
+* Dozent: Margaret Meloni, MBA, PMP
+* [Course Era link](https://www.coursera.org/learn/project-planning/home/welcome)
 # Week 2
 * What is a project?
     - Unique
