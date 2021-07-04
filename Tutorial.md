@@ -74,7 +74,6 @@ here the functional manager assign who will do which work
 ![grafik](https://user-images.githubusercontent.com/61450446/124369288-7f944680-dc6a-11eb-8ab5-93832572b3ad.png)
 <br><br><br><br>
 
-* [last study point](https://www.coursera.org/learn/project-planning/supplement/8xJIK/3-4-optional-readings)
 
 ## Week 4
 
@@ -123,9 +122,25 @@ here the functional manager assign who will do which work
 <br><br><br><br>
 
 ![grafik](https://user-images.githubusercontent.com/61450446/124370666-7c08bb80-dc7a-11eb-8932-799d07c9e02a.png)
-<br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br>
 ![grafik](https://user-images.githubusercontent.com/61450446/124370694-b5412b80-dc7a-11eb-997f-0cd8531261a0.png)
 <br><br><br><br>
+
+![grafik](https://user-images.githubusercontent.com/61450446/124370840-cdfe1100-dc7b-11eb-879e-52ee21af53a1.png)
+
+![grafik](https://user-images.githubusercontent.com/61450446/124370851-e706c200-dc7b-11eb-897a-a55fdc8e1392.png)
+
+![grafik](https://user-images.githubusercontent.com/61450446/124370867-27664000-dc7c-11eb-8d3a-6778607a081e.png)
+
+![grafik](https://user-images.githubusercontent.com/61450446/124370873-33520200-dc7c-11eb-9b51-a1eed456d90e.png)
+
+![grafik](https://user-images.githubusercontent.com/61450446/124370899-67c5be00-dc7c-11eb-8bb0-6827134074f7.png)
+
+![grafik](https://user-images.githubusercontent.com/61450446/124370925-b1160d80-dc7c-11eb-9654-74b228ba5a75.png)
+
+
+
+
 
 
 
