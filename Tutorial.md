@@ -138,6 +138,27 @@ here the functional manager assign who will do which work
 
 ![grafik](https://user-images.githubusercontent.com/61450446/124370925-b1160d80-dc7c-11eb-9654-74b228ba5a75.png)
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # [last point on the course platform](https://www.coursera.org/learn/project-planning/lecture/BG0sx/4-1-lecture)
 
 
