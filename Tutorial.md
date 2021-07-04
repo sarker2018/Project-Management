@@ -182,6 +182,7 @@ here the functional manager assign who will do which work
 <br><br><br><br>
 
 
+
 # [last point on the course platform](https://www.coursera.org/learn/project-planning/lecture/BG0sx/4-1-lecture)
 
 
