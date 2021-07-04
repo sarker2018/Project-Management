@@ -127,56 +127,59 @@ here the functional manager assign who will do which work
 <br><br><br><br>
 
 ![grafik](https://user-images.githubusercontent.com/61450446/124370840-cdfe1100-dc7b-11eb-879e-52ee21af53a1.png)
-
+<br><br><br><br>
 ![grafik](https://user-images.githubusercontent.com/61450446/124370851-e706c200-dc7b-11eb-897a-a55fdc8e1392.png)
-
+<br><br><br><br>
 ![grafik](https://user-images.githubusercontent.com/61450446/124370867-27664000-dc7c-11eb-8d3a-6778607a081e.png)
-
+<br><br><br><br>
 ![grafik](https://user-images.githubusercontent.com/61450446/124370873-33520200-dc7c-11eb-9b51-a1eed456d90e.png)
-
+<br><br><br><br>
 ![grafik](https://user-images.githubusercontent.com/61450446/124370899-67c5be00-dc7c-11eb-8bb0-6827134074f7.png)
-
+<br><br><br><br>
 ![grafik](https://user-images.githubusercontent.com/61450446/124370925-b1160d80-dc7c-11eb-9654-74b228ba5a75.png)
 
-
+<br><br><br><br>
 ![grafik](https://user-images.githubusercontent.com/61450446/124372843-d65f4780-dc8d-11eb-8153-6e4a13e8c6be.png)
-
+<br><br><br><br>
 
 ![grafik](https://user-images.githubusercontent.com/61450446/124372851-e37c3680-dc8d-11eb-8fd3-473f7e1fd7eb.png)
 
-
+<br><br><br><br>
 ![grafik](https://user-images.githubusercontent.com/61450446/124372859-f4c54300-dc8d-11eb-97f7-e42e32eebe47.png)
-
+<br><br><br><br>
 ![grafik](https://user-images.githubusercontent.com/61450446/124372868-0575b900-dc8e-11eb-8009-e586566755c0.png)
-
+<br><br><br><br>
 ![grafik](https://user-images.githubusercontent.com/61450446/124372904-4ff73580-dc8e-11eb-92ce-4ccabcc21b6f.png)
-
+<br><br><br><br>
 ![grafik](https://user-images.githubusercontent.com/61450446/124372916-6dc49a80-dc8e-11eb-904d-59100c692e51.png)
-
+<br><br><br><br>
 
 ![grafik](https://user-images.githubusercontent.com/61450446/124372941-a06e9300-dc8e-11eb-9926-e928d70c607d.png)
-
+<br><br><br><br>
 ![grafik](https://user-images.githubusercontent.com/61450446/124372948-afeddc00-dc8e-11eb-85be-85fa92c99593.png)
-
+<br><br><br><br>
 ![grafik](https://user-images.githubusercontent.com/61450446/124373040-6f429280-dc8f-11eb-91ed-60a32b52b5f2.png)
-
+<br><br><br><br>
 ![grafik](https://user-images.githubusercontent.com/61450446/124373052-85e8e980-dc8f-11eb-87b1-64149b7148c1.png)
-
+<br><br><br><br>
 ![grafik](https://user-images.githubusercontent.com/61450446/124373092-c8122b00-dc8f-11eb-8149-57ae3d34163c.png)
-
+<br><br><br><br>
 ![grafik](https://user-images.githubusercontent.com/61450446/124376455-6362ca80-dca7-11eb-8cee-8f2add45086f.png)
-
+<br><br><br><br>
 ![grafik](https://user-images.githubusercontent.com/61450446/124376781-f2241700-dca8-11eb-959f-0f422e2d21de.png)
-
+<br><br><br><br>
 ![grafik](https://user-images.githubusercontent.com/61450446/124376924-8bebc400-dca9-11eb-9fe0-2d4ca4da26aa.png)
-
+<br><br><br><br>
 ![grafik](https://user-images.githubusercontent.com/61450446/124377986-4e8a3500-dcaf-11eb-8a80-0a7ad97de3d7.png)
-
+<br><br><br><br>
 ![grafik](https://user-images.githubusercontent.com/61450446/124378025-9315d080-dcaf-11eb-909e-16dbc7a4df4f.png)
-
+<br><br><br><br>
 ![grafik](https://user-images.githubusercontent.com/61450446/124378048-ae80db80-dcaf-11eb-8ebc-e69d6a511795.png)
-
-
+<br><br><br><br>
+## Week 5
+<br><br><br><br>
+![grafik](https://user-images.githubusercontent.com/61450446/124378546-37007b80-dcb2-11eb-809b-4c595f112a45.png)
+<br><br><br><br>
 
 
 # [last point on the course platform](https://www.coursera.org/learn/project-planning/lecture/BG0sx/4-1-lecture)
