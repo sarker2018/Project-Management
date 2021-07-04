@@ -86,6 +86,15 @@ here the functional manager assign who will do which work
 
 ![grafik](https://user-images.githubusercontent.com/61450446/124370126-17e2f900-dc74-11eb-9b55-b614fb956849.png)
 
+![grafik](https://user-images.githubusercontent.com/61450446/124370309-701afa80-dc76-11eb-85ed-e7b5de3fd6ab.png)
+
+![grafik](https://user-images.githubusercontent.com/61450446/124370320-9a6cb800-dc76-11eb-8887-0a5002561004.png)
+
+![grafik](https://user-images.githubusercontent.com/61450446/124370329-bff9c180-dc76-11eb-8c3f-9bb70dc0d97d.png)
+
+![grafik](https://user-images.githubusercontent.com/61450446/124370337-cdaf4700-dc76-11eb-9bdf-a7ae4c967d06.png)
+
+![grafik](https://user-images.githubusercontent.com/61450446/124370344-d869dc00-dc76-11eb-83ad-a7b741a1dd6a.png)
 
 
 
