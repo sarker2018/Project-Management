@@ -139,17 +139,30 @@ here the functional manager assign who will do which work
 ![grafik](https://user-images.githubusercontent.com/61450446/124370925-b1160d80-dc7c-11eb-9654-74b228ba5a75.png)
 
 
+![grafik](https://user-images.githubusercontent.com/61450446/124372843-d65f4780-dc8d-11eb-8153-6e4a13e8c6be.png)
 
 
+![grafik](https://user-images.githubusercontent.com/61450446/124372851-e37c3680-dc8d-11eb-8fd3-473f7e1fd7eb.png)
 
 
+![grafik](https://user-images.githubusercontent.com/61450446/124372859-f4c54300-dc8d-11eb-97f7-e42e32eebe47.png)
+
+![grafik](https://user-images.githubusercontent.com/61450446/124372868-0575b900-dc8e-11eb-8009-e586566755c0.png)
+
+![grafik](https://user-images.githubusercontent.com/61450446/124372904-4ff73580-dc8e-11eb-92ce-4ccabcc21b6f.png)
+
+![grafik](https://user-images.githubusercontent.com/61450446/124372916-6dc49a80-dc8e-11eb-904d-59100c692e51.png)
 
 
+![grafik](https://user-images.githubusercontent.com/61450446/124372941-a06e9300-dc8e-11eb-9926-e928d70c607d.png)
 
+![grafik](https://user-images.githubusercontent.com/61450446/124372948-afeddc00-dc8e-11eb-85be-85fa92c99593.png)
 
+![grafik](https://user-images.githubusercontent.com/61450446/124373040-6f429280-dc8f-11eb-91ed-60a32b52b5f2.png)
 
+![grafik](https://user-images.githubusercontent.com/61450446/124373052-85e8e980-dc8f-11eb-87b1-64149b7148c1.png)
 
-
+![grafik](https://user-images.githubusercontent.com/61450446/124373092-c8122b00-dc8f-11eb-8149-57ae3d34163c.png)
 
 
 
