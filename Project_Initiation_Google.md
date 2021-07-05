@@ -197,8 +197,17 @@ If you have questions on peer-graded assignments as you move through the courses
         * what does the project sponsor have in mind?
       
 
+### Asking scope-defining questions
+Imagine that while working in a restaurant management group, your manager calls and asks you to “update the dining space,” then quickly hangs up the phone without providing further instruction. In this initial handoff from the manager, you are missing a lot of information. How do you even know what to ask?
 
+Let’s quickly recap the concept of scope. The scope provides the boundaries for your project. You define the scope to help identify necessary resources, resource costs, and a schedule for the project. 
+
+In the situation we just described, here are some questions you might ask your manager in order to get the information you need to define the scope of the project:
  
+
+<br><br> <img src = "https://user-images.githubusercontent.com/61450446/124481722-e0c23400-dda8-11eb-93bd-0caaf7491953.png" width = '900'><br><br><br>
+
+
 
 ## Week 3
 
