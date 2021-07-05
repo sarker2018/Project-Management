@@ -207,6 +207,14 @@ In the situation we just described, here are some questions you might ask your m
 
 <br><br> <img src = "https://user-images.githubusercontent.com/61450446/124481722-e0c23400-dda8-11eb-93bd-0caaf7491953.png" width = '900'><br><br><br>
 
+### Monitoring and maintaining a project's scope
+<h3>In-scope & out-of-scope<h3/>
+
+    In-scope: tasks that are included in the project plan and contribute to the project's goal
+    Out-of-scope: tasks that are not included
+    
+    Scope creep: any changes, growth, idea, and uncontrolled factors that affect the project's scope at any point after the project begin.
+    
 
 
 ## Week 3
