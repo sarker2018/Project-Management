@@ -180,7 +180,6 @@ Determining metrics can be extremely helpful in capturing statuses, successes, d
 ### Need more help?
 
 If you have questions on peer-graded assignments as you move through the courses, take a look at these Coursera Learner support articles: 
-
     [Submit peer reviewed assignments](https://learner.coursera.help/hc/en-us/articles/208279926-Submit-peer-reviewed-assignments)
     [Submit feedback and grades for peer reviewed assignments](https://learner.coursera.help/hc/en-us/articles/208279946-See-feedback-and-grades-for-peer-reviewed-assignments)
     
