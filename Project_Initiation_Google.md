@@ -81,9 +81,20 @@ To learn more about performing a cost-benefit analysis, check out these articles
 
 ## Week 2
 
+![grafik]()
+<br><br>
+<img src= "https://user-images.githubusercontent.com/61450446/124431284-768d9d00-dd70-11eb-9a59-ae965f2349ad.png" width = '900'>
+<br><br>
+
+
+### Key takeaway
 ## Week 3
 
+
+### Key takeaway
 ## Week 4
 
+
+### Key takeaway
 ## Week 5
-![grafik]()
+
