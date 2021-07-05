@@ -183,7 +183,14 @@ If you have questions on peer-graded assignments as you move through the courses
     [Submit peer reviewed assignments](https://learner.coursera.help/hc/en-us/articles/208279926-Submit-peer-reviewed-assignments)
     [Submit feedback and grades for peer reviewed assignments](https://learner.coursera.help/hc/en-us/articles/208279946-See-feedback-and-grades-for-peer-reviewed-assignments)
     
-    
+### Determining a project's scope
+ 
+     Simply put project and its boundary
+     Scope makes sure that your project is clearly defined and mapped out, who is using the nd result, its complexicity
+     Is it easily manageable in subtasks?
+
+
+ 
 
 ## Week 3
 
