@@ -108,14 +108,20 @@ To learn more about performing a cost-benefit analysis, check out these articles
         - Who is involved?
         - Where should the goal to be delivred- the recipient?
         - To what degree- requirements and constraints?
-    M: Measureable
+    M: Measurable
     Can be get an answer by asking-  
         How much?
         How many?
         How will I know when it's accomplished?
     - Means they are objecttively met
     - A way to track the progress and keep people motivated
+    - To track measure you can use metrics and benchmarks
+    
+ 
     A: Attainable
+        Can it be reasonably reached?
+        How can it be accomplished?
+    
     R: Relavent
     T:Time-bound
 
