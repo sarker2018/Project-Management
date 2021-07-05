@@ -105,7 +105,17 @@ To learn more about performing a cost-benefit analysis, check out these articles
     S: Specific
         - What do I want to accomplish?
         - Why is this a goal?
+        - Who is involved?
+        - Where should the goal to be delivred- the recipient?
+        - To what degree- requirements and constraints?
     M: Measureable
+    Can be get an answer by asking-
+    
+        How much?
+        How many?
+        How will I know when it's accomplished?
+    - Means they are objecttively met
+    - A way to track the progress and keep people motivated
     A: Attainable
     R: Relavent
     T:Time-bound
