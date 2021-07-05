@@ -86,9 +86,19 @@ To learn more about performing a cost-benefit analysis, check out these articles
 <br><br>
 
 ### Determining project goals and deliverables
-1. Goals: The desired outcome of the project, what your are tryin to do and what you are trying to achieve. You must know when you arrive your goal. When you are starting a project review your goal well and kanke sure to define them perfectly.
-To do this you might need more information from your stakeholders
+1. Goals: 
+    The desired outcome of the project, 
+    what your are tryin to do and what you are trying to achieve. 
+    You must know when you arrive your goal. 
+    When you are starting a project review your goal well and kanke sure to define them perfectly.
+    To do this you might need more information from your stakeholders
 
+2. Deliverable: 
+    A tangible outcome of the project. 
+    What gets produced at the end of a task, event, or process
+    Helps quantify and realize the impact of the project
+
+### How to set SMART goals
 
 
 ### Key takeaway
