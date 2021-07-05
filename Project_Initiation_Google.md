@@ -188,6 +188,14 @@ If you have questions on peer-graded assignments as you move through the courses
      Simply put project and its boundary
      Scope makes sure that your project is clearly defined and mapped out, who is using the nd result, its complexicity
      Is it easily manageable in subtasks?
+     Scope also define project timeline, budget and resources
+     
+     Additional questions with project scope
+        * where did the projec come from?
+        * why is it needed?
+        * why is the project expected to achieve?
+        * what does the project sponsor have in mind?
+      
 
 
  
