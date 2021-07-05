@@ -102,6 +102,14 @@ To learn more about performing a cost-benefit analysis, check out these articles
 
 ### How to set SMART goals
 
+    S: Specific
+        - What do I want to accomplish?
+        - Why is this a goal?
+    M: Measureable
+    A: Attainable
+    R: Relavent
+    T:Time-bound
+
 
 ### Key takeaway
 ## Week 3
