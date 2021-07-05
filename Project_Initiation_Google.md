@@ -80,11 +80,15 @@ To learn more about performing a cost-benefit analysis, check out these articles
 - [Cost Benefit or Benefit Cost Analysis](https://pmstudycircle.com/cost-benefit-or-benefit-cost-analysis/)
 
 ## Week 2
+###  Defining project goals, scope, and success criteria
+<br><br>
+<img src= "https://user-images.githubusercontent.com/61450446/124431629-dd12bb00-dd70-11eb-8135-ec6cd2951860.png" width = '900'>
+<br><br>
 
-![grafik]()
-<br><br>
-<img src= "https://user-images.githubusercontent.com/61450446/124431284-768d9d00-dd70-11eb-9a59-ae965f2349ad.png" width = '900'>
-<br><br>
+### Determining project goals and deliverables
+1. Goals: The desired outcome of the project, what your are tryin to do and what you are trying to achieve. You must know when you arrive your goal. When you are starting a project review your goal well and kanke sure to define them perfectly.
+To do this you might need more information from your stakeholders
+
 
 
 ### Key takeaway
