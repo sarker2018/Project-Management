@@ -109,8 +109,7 @@ To learn more about performing a cost-benefit analysis, check out these articles
         - Where should the goal to be delivred- the recipient?
         - To what degree- requirements and constraints?
     M: Measureable
-    Can be get an answer by asking-
-    
+    Can be get an answer by asking-  
         How much?
         How many?
         How will I know when it's accomplished?
