@@ -102,6 +102,13 @@ To learn more about performing a cost-benefit analysis, check out these articles
 
 ### How to set SMART goals
 
+                S: Specific
+                M: Measurable
+                A: Attainable
+                A: Attainable
+                R: Relavent
+
+
     S: Specific
         - What do I want to accomplish?
         - Why is this a goal?
@@ -123,7 +130,18 @@ To learn more about performing a cost-benefit analysis, check out these articles
         How can it be accomplished?
     
     R: Relavent
+    - Does it make sense try and achieve this goal? 
+        How this goal lines up with otheer goals, priorties, and values
+    - If the goal is worthwhile?
+        Does balance outweigh the benefits?
+        Does it meet the organizatiosn other needs and pririties?
+        Everyone using the product should feet that the goal is worth supporting
+    - Is it right time?
+        Can the project duration and the surrounding social context m ake an impact? 
+        
+    
     T:Time-bound
+    - Has a clear deadline or time frame
 
 
 ### Key takeaway
