@@ -87,3 +87,11 @@ are added, timescales are reined in or budgets are slashed.
 Of course it never happens the other way round! Over the
 years project teams have battled with trying to keep the three
 constraints balanced, invariably a case of Mission Impossible.
+
+## Keep in mind
+Customers don’t want better project management. They want better
+product delivery. All the agile tools and techniques exist solely to
+that end. Use whatever techniques get the best results but don’t
+get hung up on the methods themselves. The ends are much more
+important than the means.
+
