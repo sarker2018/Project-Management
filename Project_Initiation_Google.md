@@ -299,7 +299,6 @@ __Prioritizing Stakeholders__
 <img src = 'https://user-images.githubusercontent.com/61450446/124588218-d65f7300-de58-11eb-85bb-d2c995ef3648.png' width = '900'>
 <br><br>
 
-![grafik](https://user-images.githubusercontent.com/61450446/124588218-d65f7300-de58-11eb-85bb-d2c995ef3648.png)
 
 
 ### Key takeaway
