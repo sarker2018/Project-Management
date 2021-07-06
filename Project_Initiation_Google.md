@@ -299,8 +299,14 @@ __Prioritizing Stakeholders__
 <img src = 'https://user-images.githubusercontent.com/61450446/124588218-d65f7300-de58-11eb-85bb-d2c995ef3648.png' width = '900'>
 <br><br>
 
-
-
+### Elements of a RACI chart
+Responsible: Those doing the work to complete the task
+Accountable: Those making sure the work gets done
+Consulted: Those giving feedback, like subjectmatter experts or decision makers
+Informed: Those just needing to know the final decisions or that a task is done 
+<br><br><br>
+<img src= 'https://user-images.githubusercontent.com/61450446/124596680-d9f7f780-de62-11eb-86aa-f41220f12749.png' width= '900'>
+<br><br>
 ### Key takeaway
 ## Week 4
 
