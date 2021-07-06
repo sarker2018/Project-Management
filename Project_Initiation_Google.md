@@ -420,7 +420,28 @@ __When should you use a RACI chart?__
 
 If you are wondering if you should use a RACI chart on your project, it is a good idea to evaluate the complexity of the effort. For example, if you have a very small project team with a small amount of stakeholders, clearly defined roles, and a short timeline, introducing a RACI chart could possibly slow down the project. However, larger projects, or even projects that involve a large number of stakeholders, could greatly benefit from a RACI chart. It is always a good idea to work through the creation of a RACI chart and evaluate the outcome. Even if you do not end up using the RACI chart, you will have a better understanding of the project, and your effort will contribute to your project management experience overall.
 
-[ebay_kauf.pdf](https://github.com/sarker2018/Project-Management/files/6770140/ebay_kauf.pdf)
+### Why projects fail: Initiation missteps
+
+You have been learning the necessary planning steps to take in order to set a project up for success. But despite your best efforts, projects can still fail. Sometimes the factors that lead to project failure are out of your control. The technology to complete the project is unavailable, for example, or a stakeholder decides to drastically change the goals of the project. However, there are factors that can lead to failure that are more in your control, such as being unable to complete the project deliverables within the agreed upon time or being unable to fulfill the stakeholder’s vision for the project.
+
+In this reading, we will explore a few key reasons why projects fail and examine how missteps during the initiation phase can lead to project failure
+
+
+__Unclear expectations__ 
+
+You may remember the questions you need to answer at the start of the initiation phase of the project, including: 
+
+    What is the end goal? 
+    What are the expected deliverables and schedule? 
+    What is the budget? 
+    Who are the stakeholders? 
+
+Not taking the time at the beginning of a project to ask essential questions, document decisions, and understand the true scope of the project may lead to failure. After all, without directions, you can never reach your destination.
+
+__Unrealistic expectations__
+
+We all like to impress our managers, but sometimes, we accidentally agree to unrealistic expectations and set our projects up for failure from the start. For example, if a project is expected to take two weeks due to the level of detail and effort required but we try to complete it in one week, we will not have the resources available to meet the consolidated schedule. This will likely result in quality issues. It’s important to understand the requirements of a project before agreeing to any deadlines. As a best practice, don't commit to firm dates when initiating the project to avoid setting unrealistic expectations. You will have more information and will be able to better manage expectations in the planning phase.
+
 
 
 ### Key takeaway
