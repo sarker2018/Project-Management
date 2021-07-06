@@ -279,6 +279,21 @@ and success will look different for each of them. You want to ask questions, suc
 ## Week 3
 ### Accessibility for project managers
 
+
+
+### Completing a stakeholder analysis
+
+Make a list of all the stakeholders the project impacts
+Determine the level of interest and influence for each stakeholder
+Assess stakeholders' ability to participate and then find ways to involve them.
+
+__Infulence__ measures how much power they(a stakeholder) have and how much this stakeholders' action affect the project outcome 
+__Power Grid__ is a two-by-two grid used for conduxting power analysis
+
+<br><br><br>
+<img src = 'https://user-images.githubusercontent.com/61450446/124587113-8d5aef00-de57-11eb-9445-2423a8ac1b21.png' width = '900'>
+<br><br>
+
 ### Key takeaway
 ## Week 4
 
