@@ -331,7 +331,8 @@ Note that RACI charts can be organized in different ways,  depending on personal
 
 ![grafik](https://user-images.githubusercontent.com/61450446/124599274-c8fcb580-de65-11eb-8cd0-a2dd996054bd.png)
 
-Responsible
+__Responsible__[aljazeera.pdf](https://github.com/sarker2018/Project-Management/files/6770135/aljazeera.pdf)
+
 
 Individuals who are assigned the “responsible” role for a task are the ones who are actually doing the work to complete the task. Every task needs at least one responsible party. It’s a best practice to try to limit the number of team members assigned to a task’s  responsible role, but in some cases, you may have more than one. 
 
@@ -346,7 +347,7 @@ Let’s dig deeper into our example with Office Green. Our task is to develop pr
 
 ![grafik](https://user-images.githubusercontent.com/61450446/124601786-88526b80-de68-11eb-9982-965b656addb8.png)
 
-Accountable
+__Accountable__
 
 The “accountable” person is responsible for making sure the task gets done. It is important to have only one individual accountable for each task. This helps clarify ownership of the task. The accountable person ultimately has the authority to approve the deliverable of the responsible party. 
 
@@ -361,7 +362,7 @@ Continuing with our Office Green example, you have assigned the “accountable�
 
 ![grafik](https://user-images.githubusercontent.com/61450446/124601861-9bfdd200-de68-11eb-8ef1-690e639fc45e.png)
 
-Consulted
+__Consulted__
 
 Team members or stakeholders who are placed in the “consulted” role have useful information to help complete the task. There is no maximum or minimum number of people who can be assigned a “consulted” role, but it’s important that each person has a reason for being there.
 
@@ -377,7 +378,7 @@ Back to the project at Office Green, we’ve got a “responsible” Financial A
 
 ![grafik](https://user-images.githubusercontent.com/61450446/124601928-aae48480-de68-11eb-95e5-b8a908b9bc9f.png)
 
-Informed
+__Informed__
 
 Individuals who are identified as needing to be “informed” need to know the final decisions that were made and when a task is completed. It is common to have many people assigned to this category and for some team members to be informed on most tasks. Team members or stakeholders here will not be asked for feedback, so it is key to make sure people who are in this group only require status updates and do not need to provide any direct feedback for the completion of the effort. 
 
@@ -396,18 +397,18 @@ The RACI chart is a valuable tool. It can help you define and document project r
 
 
 
-__Getting the most out of a RACI chart
-__Definition and structure
+__Getting the most out of a RACI chart__
+__Definition and structure__
 
 Determining who is Responsible, Accountable, Consulted and Informed on your projects allows you to keep control of the stakeholders roles on your project.  
 
 ![grafik](https://user-images.githubusercontent.com/61450446/124602351-09116780-de69-11eb-9ff9-7f527191a363.png)
 
-__Workload balance 
+__Workload balance__ 
 
 Are there too many tasks assigned to one stakeholder? When you complete your chart, it is a good idea to go back through and tally the number of Rs assigned to each stakeholder. This can help you identify potentially overloading one team member with work. Using a RACI chart to determine responsibility for tasks can help mitigate single points of failure (known as creating silos, where the knowledge and responsibility for a task falls on one person) and allow you, as the project manager, to delegate tasks and avoid burnout. Maintaining workload balance is a critical part of project management. It is easy to fall into the pattern of relying on your top performers to keep the project moving forward. But this isn’t always healthy for the project or your team. If you find that you don’t have the right people to assign responsibilities to, take a step back and evaluate your team. 
 
-__Put your RACI into practice
+__Put your RACI into practice__
 
 Once you have created your RACI chart, it is time to put it into practice. You will first need to share your RACI chart with your sponsors and stakeholders to get buy-in and sign-off. When you get stakeholder buy-in, you will be able to set clear expectations for your team and ensure that everyone is aligned on their responsibilities. 
 
@@ -415,10 +416,11 @@ You can document your team and stakeholders’ acknowledgment of these expectati
 
 As you take the time to ensure that each task has an owner identified with the appropriate level of engagement, you are streamlining your communication and decision-making process over the life cycle of your project. 
 
-__When should you use a RACI chart?
+__When should you use a RACI chart?__
 
 If you are wondering if you should use a RACI chart on your project, it is a good idea to evaluate the complexity of the effort. For example, if you have a very small project team with a small amount of stakeholders, clearly defined roles, and a short timeline, introducing a RACI chart could possibly slow down the project. However, larger projects, or even projects that involve a large number of stakeholders, could greatly benefit from a RACI chart. It is always a good idea to work through the creation of a RACI chart and evaluate the outcome. Even if you do not end up using the RACI chart, you will have a better understanding of the project, and your effort will contribute to your project management experience overall.
 
+[ebay_kauf.pdf](https://github.com/sarker2018/Project-Management/files/6770140/ebay_kauf.pdf)
 
 
 ### Key takeaway
