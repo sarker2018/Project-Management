@@ -296,10 +296,10 @@ __Power Grid__ is a two-by-two grid used for conduxting power analysis
 
 __Prioritizing Stakeholders__
 <br><br><br>
-<img src = 'ttps://user-images.githubusercontent.com/61450446/124587832-5fc27580-de58-11eb97aa-36aa3d959e36.png' width = '900'>
+<img src = 'https://user-images.githubusercontent.com/61450446/124587832-5fc27580-de58-11eb97aa-36aa3d959e36.png' width = '900'>
 <br><br>
 
-https://user-images.githubusercontent.com/61450446/124587832-5fc27580-de58-11eb-97aa-36aa3d959e36.png
+![grafik](https://user-images.githubusercontent.com/61450446/124588218-d65f7300-de58-11eb-85bb-d2c995ef3648.png)
 
 
 ### Key takeaway
