@@ -294,7 +294,12 @@ __Power Grid__ is a two-by-two grid used for conduxting power analysis
 <img src = 'https://user-images.githubusercontent.com/61450446/124587660-268a0580-de58-11eb-930d-a6e7dfae00b6.png' width = '900'>
 <br><br>
 
+__Prioritizing Stakeholders__
+<br><br><br>
+<img src = 'ttps://user-images.githubusercontent.com/61450446/124587832-5fc27580-de58-11eb-97aa-36aa3d959e36.png' width = '900'>
+<br><br>
 
+https://user-images.githubusercontent.com/61450446/124587832-5fc27580-de58-11eb-97aa-36aa3d959e36.png
 
 
 ### Key takeaway
