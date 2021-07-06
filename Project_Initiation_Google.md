@@ -277,7 +277,7 @@ Understanding where we are and where we are going helps the project team determi
 and success will look different for each of them. You want to ask questions, such as: Who ultimately says whether or not the project is successful? What criteria will be measured to determine success? What is the success of this project based on? It is best practice to get the key stakeholders or the steering committee to review and approve your success criteria. This becomes a mutual agreement on how all parties define the success of the project. 
 
 ## Week 3
-
+### Accessibility for project managers
 
 ### Key takeaway
 ## Week 4
