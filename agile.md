@@ -97,6 +97,7 @@ important than the means.
 
 # AGILE MANIFESTO
 <h3>Agile stands on three manifetos</h3>
+
 * Individuals and Interactions over process and tools
 * Working softwares over comprehensive documentations
 * Customer collaboration over contract negotiations
