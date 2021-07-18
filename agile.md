@@ -103,5 +103,13 @@ important than the means.
 * Customer collaboration over contract negotiations
 * Responding to change over following a plan
 # AGILE PRINCIPLE
+
+* Our highest priority is to satisfy the customer through early and
+continuous delivery of valuable software.
+* Welcome changing requirements, even late in development. Agile
+processes harness change for the customer’s competitive advantage.
+
+
+# The Declaration of Interdependence
 # AGILE VALUES
 
