@@ -96,7 +96,7 @@ get hung up on the methods themselves. The ends are much more
 important than the means.
 
 # AGILE MANIFESTO
-Agile stands on three manifetos
+__Agile stands on three manifetos__
 * Individuals and Interactions over process and tools
 * Working softwares over comprehensive documentations
 * Customer collaboration over contract negotiations
