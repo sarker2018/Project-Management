@@ -1,5 +1,5 @@
 # Brilliant agile project management
-__A practical guide to using Agile, Scrum and Kanban by Rob Cole and Edward Scotcher__
+<h3>A practical guide to using Agile, Scrum and Kanban by Rob Cole and Edward Scotcher</h3>
 
 ## Manifesto for Agile Software Development
 We are uncovering better ways of developing software by doing it
@@ -104,10 +104,14 @@ important than the means.
 * Responding to change over following a plan
 # AGILE PRINCIPLE
 
-* Our highest priority is to satisfy the customer through early and
+1. Our highest priority is to satisfy the customer through early and
 continuous delivery of valuable software.
 * Welcome changing requirements, even late in development. Agile
 processes harness change for the customer’s competitive advantage.
+* Deliver working software frequently, from a couple of weeks to a
+couple of months, with a preference to the shorter timescale.
+* Business people and developers must work together daily
+throughout the project
 
 
 # The Declaration of Interdependence
