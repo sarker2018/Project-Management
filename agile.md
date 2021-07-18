@@ -95,3 +95,12 @@ that end. Use whatever techniques get the best results but don’t
 get hung up on the methods themselves. The ends are much more
 important than the means.
 
+# AGILE MANIFESTO
+Agile stands on three manifetos
+* Individuals and Interactions over process and tools
+* Working softwares over comprehensive documentations
+* Customer collaboration over contract negotiations
+* Responding to change over following a plan
+# AGILE PRINCIPLE
+# AGILE VALUES
+
